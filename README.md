@@ -1,11 +1,16 @@
+<div align="center">
+
 # ProfiLLM: Utility-Aligned Agentic User Profiling for Industrial Ride-Hailing Dispatch
 
-> **ProfiLLM: Utility-Aligned Agentic User Profiling for Industrial Ride-Hailing Dispatch**
-> Tengfei Lyu\* , Zirui Yuan\* , Xu Liu, Kai Wan, Zihao Lu, Li Ma, Hao Liu†
-> *HKUST(GZ)* (Tengfei Lyu, Zirui Yuan, Hao Liu) and *DiDi Chuxing (Didichuxing Co. Ltd)* (Xu Liu, Kai Wan, Zihao Lu, Li Ma)
-> Under submission to **VLDB**, Scalable Data Science track. Deployed on DiDi's production dispatcher.
->
-> \* Equal contribution. † Corresponding author.
+**Tengfei Lyu**<sup>1,\*</sup> &nbsp; **Zirui Yuan**<sup>1,\*</sup> &nbsp; Xu Liu<sup>2</sup> &nbsp; Kai Wan<sup>2</sup> &nbsp; Zihao Lu<sup>2</sup> &nbsp; Li Ma<sup>2</sup> &nbsp; **Hao Liu**<sup>1,†</sup>
+
+<sup>1</sup>&nbsp;HKUST(GZ) &nbsp;&nbsp;&nbsp; <sup>2</sup>&nbsp;DiDi Chuxing
+
+_Under submission to **VLDB**, Scalable Data Science track &nbsp;·&nbsp; Deployed on DiDi's production dispatcher_
+
+<sub><sup>\*</sup>&nbsp;Equal contribution &nbsp;·&nbsp; <sup>†</sup>&nbsp;Corresponding author</sub>
+
+</div>
 
 <p align="center">
   <a href="https://profillm.github.io"><img src="https://img.shields.io/badge/Project_Page-profillm.github.io-1f6feb?style=flat-square&logo=githubpages&logoColor=white" alt="Project Page"></a>
