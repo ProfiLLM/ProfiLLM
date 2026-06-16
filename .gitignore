@@ -1,0 +1,34 @@
+# caches / environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+.ipynb_checkpoints/
+
+# data & artifacts (never commit real ride-hailing data)
+*.csv
+*.parquet
+*.pkl
+*.npz
+*.h5
+*.tar.gz
+*.tfrecord*
+data/
+output/
+outputs/
+results/
+mining_results*/
+profile_cache/
+model_dir/
+checkpoints/
+*.log
+logs/
+
+# secrets
+.env
+*.key
+credentials*.json
+
+# allow small docs assets
+!docs/**/*.csv
